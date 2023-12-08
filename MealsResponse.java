@@ -1,4 +1,4 @@
-package sample;
+package CallRandomAPI;
 
 import java.util.List;
 
